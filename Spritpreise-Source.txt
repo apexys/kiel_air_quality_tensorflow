@@ -1,0 +1,2 @@
+Spritdaten von https://creativecommons.tankerkoenig.de/
+Nachbearbeitung des PostgreSQL-dumps mit Filter auf place=="Kiel"
