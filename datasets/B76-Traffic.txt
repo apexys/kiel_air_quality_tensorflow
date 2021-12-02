@@ -1,1 +1,0 @@
-Custom import of 2019 Bundesstraßen data from https://www.bast.de/DE/Verkehrstechnik/Fachthemen/v2-verkehrszaehlung/zaehl_node.html
